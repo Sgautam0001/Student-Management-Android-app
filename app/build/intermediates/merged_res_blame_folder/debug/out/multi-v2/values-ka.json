@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shivam/Library/Mobile Documents/com~apple~CloudDocs/Android dev project/Student Management ANDROID/AndroidStudentMgt/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/Users/shivam/.gradle/caches/transforms-3/d538d5a1968642e8fbde64390b8e4a29/transformed/support-compat-28.0.0/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

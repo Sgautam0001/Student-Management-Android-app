@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shivam/Library/Mobile Documents/com~apple~CloudDocs/Android dev project/Student Management ANDROID/AndroidStudentMgt/app/build/intermediates/merged_res/debug/layout_activity_student_main.xml.flat",
+        "source": "/Users/shivam/Library/Mobile Documents/com~apple~CloudDocs/Android dev project/Student Management ANDROID/AndroidStudentMgt/app/src/main/res/layout/activity_student_main.xml"
+    },
+    {
+        "merged": "/Users/shivam/Library/Mobile Documents/com~apple~CloudDocs/Android dev project/Student Management ANDROID/AndroidStudentMgt/app/build/intermediates/merged_res/debug/menu_student_main.xml.flat",
+        "source": "/Users/shivam/Library/Mobile Documents/com~apple~CloudDocs/Android dev project/Student Management ANDROID/AndroidStudentMgt/app/src/main/res/menu/student_main.xml"
+    }
+]

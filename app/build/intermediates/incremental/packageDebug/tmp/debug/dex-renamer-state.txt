@@ -1,0 +1,4 @@
+#Thu Dec 25 19:17:00 IST 2025
+base.0=/Users/shivam/Library/Mobile Documents/com~apple~CloudDocs/Android dev project/Student Management ANDROID/AndroidStudentMgt/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
